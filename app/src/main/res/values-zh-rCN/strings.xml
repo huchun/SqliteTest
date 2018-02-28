@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">数据库</string>
+    <string name="action_settings">设置</string>
+
+    <string name="txt_empty">数据为空</string>
+    <string name="text_name">名字</string>
+    <string name="text_number">手机号</string>
+    <string name="text_add">添加</string>
+    <string name="text_edit">编辑</string>
+    <string name="text_delete">删除</string>
+
+</resources>
